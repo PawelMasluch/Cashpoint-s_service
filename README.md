@@ -1,4 +1,4 @@
-# Cashpoints_and_bank_accounts (en)
+# Cashpoints, bank accounts and credit cards (en)
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
